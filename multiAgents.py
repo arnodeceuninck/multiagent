@@ -347,6 +347,7 @@ def betterEvaluationFunction(currentGameState):
     - Not much food left (lower = better -> inverse)
     - Scared ghost is close (lower = better -> inverse)
     - High score
+    - veel capsules gegeten
     """
     "*** YOUR CODE HERE ***"
     # return currentGameState.getScore()
